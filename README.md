@@ -1,6 +1,10 @@
 # Terraform-3-Tier
 Terraform GOD Tier Application
 
-Used AWS Services:
+Services and Tools Used In this 3 Tier Application Project.
 
 DevOps Tools:
+
+AWS Services:
+
+Linux Services:
