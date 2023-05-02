@@ -1,7 +1,6 @@
-# Terraform-3-Tier
-# Terraform GOD Tier Application
+# Terraform 3 Tier Application
 
-Services and Tools Used In this 3 Tier Application Project.
+## Services and Tools Used In this 3 Tier Application Project.
 
 DevOps Tools:
 
