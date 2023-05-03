@@ -64,7 +64,7 @@ Linux Services Used :-
 
 ```
 
-Shell Scripting Commands :
+Shell Scripting Commands :-
   - sed
   - awk
   - xargs
